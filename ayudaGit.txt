@@ -1,0 +1,16 @@
+echo "# repasoJS_2670689" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/johanyOcampo/repasoJS_2670689.git
+git push -u origin main
+
+
+
+git init
+git add .
+git commit -m "Primer commit"
+git config user.email "joany246@hotmail.com" 
+git config usar.name "johanyOcampo"
+
