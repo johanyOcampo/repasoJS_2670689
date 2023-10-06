@@ -13,4 +13,11 @@ git add .
 git commit -m "Primer commit"
 git config user.email "joany246@hotmail.com" 
 git config usar.name "johanyOcampo"
+git remote add origin https://github.com/johanyOcampo/repasoJS_2670689.git
+git push -u origin main/master
 
+
+como actualizar el repositorio
+git add .
+git commit -m "segundo commit"
+git push -u origin master
